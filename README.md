@@ -18,6 +18,6 @@ Abaixo, seguem links bem bacanas, sobre tópicos de desenvolvimento do app:
 
 Imagem do Projeto Finalizado.
 
-<a href="https://ibb.co/R65Y1sy"><img src="https://i.ibb.co/fNcqbyv/Guitar-Flix.png" alt="Guitar-Flix" border="0"></a>
+<a href="https://ibb.co/R65Y1sy"><img src="https://i.ibb.co/fNcqbyv/Guitar-Flix.png" alt="Guitar-Flix" border="0" /></a>
 
 Email:sergio.desenvolvedor.web@gmail.com
