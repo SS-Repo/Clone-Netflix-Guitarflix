@@ -8,11 +8,13 @@
 * GIT
 * GITHUB
 * JQUERY
+* OWL Carousel 2 js
 
 Abaixo, seguem links bem bacanas, sobre tópicos de desenvolvimento do app:
 
 * [Referência do Visual Code, para download](https://code.visualstudio.com/)
 * [HTML,CSS,Jquery](https://www.w3schools.com/)
+* [OWL Carousel 2 js](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Site oficial do GIT](https://git-scm.com/)
 * [Site oficial do GitHub](http://github.com/)
 
