@@ -1,7 +1,4 @@
-# Clone-Netflix-Guitarflix
-Clone Netflix Bootcamp Impulso Fullstack Web Developer
-
-<h2>Digital Innovation: Impulso Bootcamp - Desenvolvendo um site Clone Netflix</h2>
+<h2>Digital Innovation: Impulso Fullstack Web Developer Bootcamp - Desenvolvendo um site Clone Netflix - Guitarflix</h2>
 
  pré-requisitos do projeto:
 
